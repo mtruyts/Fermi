@@ -3,7 +3,7 @@
 Escreva um aplicativo que executa o jogo de Fermi.
 
 São gerados três dígitos aleatórios distintos entre 0 e 9. Estes dígitos são atribuídos ás posições
-1, 2 e 3. O objetivo do jogo é que jogador adivinhe os dígitos nas três posições corretamente e
+1, 2 e 3. O objetivo do jogo é que o jogador adivinhe os dígitos nas três posições corretamente e
 no menor número de tentativas.
 Para cada palpite, o jogador fornece três dígitos para as posições 1, 2 e 3. O programa responde
 com uma dica que consiste de Fermi, Pico ou Nano.
